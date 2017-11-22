@@ -1,0 +1,250 @@
+<<<<<<< HEAD
+RODRI
+=======
+#PRIMEEEEEEEEEEEEEEEEEE
+>>>>>>> dbe8a2581d76ccc00da86556a7712b137ad564a7
+HISTORIA FAMILIAR
+DEMANDANTE
+¿Sus padres son catolicos?
+  iphfrbpadcatdemandante
+    si  rbpadcatdmtsi
+    no  rbpadcatdmtno
+
+¿Sus padres están casados por la iglesia católica?
+  iphfrbcasadcatdmt
+    si  rbcasadcatdmtsi
+    no  rbcasadcatdmtno
+
+Otro
+  iphfcatotrodmt
+
+¿El matrimonio de sus padres es un matrimonio de toda la vida?
+  iphfrbpadmatdmt
+    si rbpadmatdmtdmtsi
+    no rbpadmatdmtdmtno
+
+Si no es así ¿Cómo ha sido el matrimonio de sus padres?
+  iphfmatrimoniodmt
+
+¿Si sus padres se han separado, que edad tenía usted al momento de la separación?
+  iphfseparaciondmt
+
+¿Sus padres son católicos practicantes?
+  iphfrbcatpracpadredmt
+    si  rbcatpracpadredmtsi
+    no  rbcatpracpadredmtno
+  iphfrbcatpracmadredmt
+    si  rbcatpracmadredmtsi
+    no  rbcatpracmadredmtno
+----------------
+DEMANDADO
+¿Sus padres son catolicos?
+  iphfrbpadcatdmd
+    si  rbpadcatdmdsi
+    no  rbpadcatdmdno
+
+¿Sus padres están casados por la iglesia católica?
+  iphfrbcasadcatdmd
+    si  rbcasadcatdmdsi
+    no  rbcasadcatdmdno
+
+Otro
+  iphfcatotrodmd
+
+¿El matrimonio de sus padres es un matrimonio de toda la vida?
+  iphfrbpadmatdmd
+    si rbpadmatdmdsi
+    no rbpadmatdmdno
+
+Si no es así ¿Cómo ha sido el matrimonio de sus padres?
+  iphfmatrimoniodmd
+
+¿Si sus padres se han separado, que edad tenía usted al momento de la separación?
+  iphfseparaciondmd
+
+¿Sus padres son católicos practicantes?
+  iphfrbcatpracpadredmd
+    si  rbcatpracpadredmdsi
+    no  rbcatpracpadredmdno
+  iphfrbcatpracmadredmd
+    si  rbcatpracmadredmdsi
+    no  rbcatpracmadredmdno
+
+
+Hermano
+DEMANDANTE
+  varones
+    iphfhnovardmt
+  mujeres
+    iphfhnamujdmt
+
+¿Qué número ocupa usted entre sus hermanos?
+  iphfnumherdmt
+
+¿Ha fracasado el matrimonio de alguno de sus hermanos?
+  iphfrbmathnodmt
+    si  rbmathnodmtsi
+    no  rbmathnodmtno
+
+Expliquese
+  iphfexplidmt
+
+  DEMANDANDADO
+    varones
+      iphfhnovardmd
+    mujeres
+      iphfhnamujdmd
+
+  ¿Qué número ocupa usted entre sus hermanos?
+    iphfnumherdmd
+
+  ¿Ha fracasado el matrimonio de alguno de sus hermanos?
+    iphfrbmathnodmt
+      si  rbmathnodmdsi
+      no  rbmathnodmdno
+
+  Expliquese
+    iphfexplidmd
+
+  Observaciones
+    faobscanon1
+
+    --------------------------------------------------------
+NOVIAZGO Y MATRIMONIO
+Brevemente ¿Cuándo y cómo conoció a la parte Demandada?
+  ipnmfecha
+  ipnmcircu
+
+¿Cuánto duró el noviazgo antes de tomar la desición de casarse?
+  ipnmdurnov
+
+¿Hubo un compromiso formal antes del matrimonio?
+  ipnmrbcompro
+    si  rbcomprosi
+    no  rbcomprono
+
+Si es así, fecha del compromiso:
+  ipnmfechacompro
+
+¿Cuánto tiempo duró el compromiso?
+  ipnmtiempocompro
+
+¿Vivieron juntos antes de casarse?
+  ipnmrbvivirantes
+    si  rbvivirantessi
+    no  rbvivirantesno
+
+Si es así, ¿Cuánto tiempo vivieron juntos antes de casarse?
+  ipnmantescas
+
+Si es así, explique ¿Porqué decidió casarse?:
+  ipsnmporquecas
+
+¿Hubo algun embarazo o sospecha de un embarazo antes de contraer matrimonio?
+  ipnmrbsospecha
+    si  rbsospechasi
+    no  rbsospechano
+
+Si es así, ¿Como afecto la desicion de contraer matrimonio?
+  ipnmcontraer
+
+¿Usted y la parte demandada firmaron algun acuerdo o convenio prenupcial?
+  ipnmrbacuerdo
+  si  rbacuedosi
+  no  rbacuedono
+
+Fecha exacta de la boda:
+  ipnmfechaboda
+
+  El matrimonio fue oficiado por un:
+    rbsac
+    rbdiacono
+    rbcivil
+    rbotro
+
+Nombre del sacerdote, ministro u oficiante
+  ipnmsacerdote
+
+Parroquia o lugar donde se contrajo matrimonio
+  ipnmparroquia
+
+Ciudad
+  ipnmciudad
+
+Departamento
+  ipnmdepart
+
+Estado
+  ipnmestado
+
+Pais
+  ipnmpais
+
+¿Donde realizo el matrimonio civil?
+  ipnmcivil
+
+Si hubo un matrimonio civil antes del matrimonio de la Iglesia, fecha
+  ipnmfechabodacivil
+
+¿Fue su matrimonio con la parte demandada, su primer matrimonio?
+  ipnmrbmatrimoniodm
+    si  rbmatrimoniodmsi
+    no  rbmatrimoniodmno
+
+¿Fue el matrimonio con usted el primer matrimonio para la parte Demandada?
+  ipnmrbprimermatrimonio
+    si  rbprimermatrimoniosi
+    no  rbprimermatrimoniono
+
+Duracion del Noviazgo
+  ipnmduracion
+
+
+----------------------------------------------
+HIJOS
+
+Si no hubo hijos durante su matrimonio, ¿por qué no?
+  iphjhijosmat
+
+¿Cuántos niños tuvieron durante su matrimonio?
+  iphjninios
+
+¿Cuántos hijos son todavía menores de edad?
+  iphjhijosmenores
+
+¿Quién tiene ahora la custodia legal de los niños?
+  iphjcustodia
+
+¿Ha cumplido usted con las visitas / custodia de los niños?
+  iphjvisita
+
+¿Está usted obligado a pagar manutención de niños y/o cónyuge fijada por el juez?
+  iphjrbmanutencion
+    si  rbmanutencionsi
+    no  rbmanutencionno
+
+¿Ha cumplido con el pago de pensiones?
+  iphjrbpensiones
+    si  rbpensionesi
+    no  rbpensioneno
+
+¿Hay alguna querella pendiente o en proceso en el Tribunal Civil entre usted y la parte demandada?
+  iphjrbtribunal
+    si  rbtribunalsi
+    no  rbtribunalsi
+
+Si es así, por favor descríbalo brevemente:
+  iphjdesp
+
+¿Hay en la actualidad una orden de “protección contra abuso”, “orden de restricción”, o una orden similar del Juez en vigor entre usted y la parte Demandada?
+  iphjlargo
+    si  rblargosi
+    no  rblargono
+
+¿Existió alguna vez esa orden?
+  iphjorden
+    si  rbordensi
+    no  rbordenno
+
+Si es así, describa los hechos que han causado esta decisión.
+  iphjhechos
